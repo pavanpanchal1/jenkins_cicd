@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON</title>
+</head>
+
+<body>
+    <h1 id="one"></h1>
+    <h1 id="three"></h1>
+    <h1 id="two"></h1>
+    <script>
+        obj = {
+            "name": "Kumar",
+            "age": 21,
+            "roll": 23,
+            "ex": {
+                "hobbies": ["cricket", "Football", "chess"],
+                "address": {
+                    "city": "Chennai",
+                    "state": "tamilnadu"
+                }
+            }
+        }
+        document.getElementById("one").innerHTML = obj.name;
+        document.getElementById("two").innerHTML = obj.ex.address.city;
+        document.getElementById("three").innerHTML = obj.ex.hobbies[1];
+    </script>
+</body>
+
+</html>

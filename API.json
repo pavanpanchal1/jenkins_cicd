@@ -1,0 +1,34 @@
+[
+    {
+        "cusstomer_id": "602",
+        "customer_name": "kumar",
+        "address": "Rajajinagar",
+        "mobile_number": "9740028259",
+        "contact_person": "kumar",
+        "email": "pavan800@gmail.com"
+    },
+    {
+        "cusstomer_id": "607",
+        "customer_name": "Pavankumar",
+        "address": "Rajajinagar123",
+        "mobile_number": "9740028250",
+        "contact_person": "kumar",
+        "email": "adc@gmail.com"
+    },
+    {
+        "cusstomer_id": "609",
+        "customer_name": "Pavan",
+        "address": "dasvadvr",
+        "mobile_number": "9898989898",
+        "contact_person": "pavan",
+        "email": "zbc@gmail.com"
+    },
+    {
+        "cusstomer_id": "610",
+        "customer_name": "xyz",
+        "address": "gulbarga",
+        "mobile_number": "8111111111",
+        "contact_person": "kumar123",
+        "email": "vikas@gmail.com"
+    }
+]

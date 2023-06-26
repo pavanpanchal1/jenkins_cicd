@@ -1,0 +1,30 @@
+[
+    {
+        "product_id": "55",
+        "product_name": "T-shirts ",
+        "product_type": "item",
+        "rate": "105",
+        "product_item": " Clothes "
+    },
+    {
+        "product_id": "62",
+        "product_name": "Jeans ",
+        "product_type": "item",
+        "rate": "1000",
+        "product_item": "Clothes "
+    },
+    {
+        "product_id": "63",
+        "product_name": "Shirt ",
+        "product_type": "item",
+        "rate": "300",
+        "product_item": "Clothes "
+    },
+    {
+        "product_id": "64",
+        "product_name": "kurtas",
+        "product_type": "item",
+        "rate": "589",
+        "product_item": "Clothes "
+    }
+]
